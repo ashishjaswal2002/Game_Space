@@ -1,0 +1,24 @@
+{
+    "name": "my-server",
+    "version": "1.0.0",
+    "description": "An express application",
+    "main": "index.js",
+    "scripts": {
+      "dev": "npx tailwindcss -i ./public/css/style.css -o ./public/css/tailwind.css --watch "
+    },
+    "author": "Jon Church",
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/osiolabs/heynode.git"
+    },
+    "bugs": {
+      "url": "https://github.com/osiolabs/heynode/issues"
+    },
+    "homepage": "https://github.com/osiolabs/heynode#readme",
+    "keywords": [
+      "express",
+      "server"
+    ]
+  }
+  
